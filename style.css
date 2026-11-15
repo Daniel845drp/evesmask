@@ -81,7 +81,7 @@ main {
   z-index: -1;
   background: white;
   width: 350px;
-  height: auto;
+  height: 220px;
 
   transition: all .75s;
 }
