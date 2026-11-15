@@ -80,8 +80,8 @@ main {
   /*  */
   z-index: -1;
   background: white;
-  width: 390px;
-  height: 50px;
+  width: 350px;
+  height: auto;
 
   transition: all .75s;
 }
