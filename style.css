@@ -82,8 +82,8 @@ main {
   background: white;
   width: 80%;
   max-width: 320; 
-  height: auto;
-  left: 50%;
+  height: 150;
+  
 
   transition: all .75s;
 }
