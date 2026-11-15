@@ -74,7 +74,8 @@ main {
 .paper {
   position: absolute;
   padding: 1.5rem;
-  line-height: 2rem;
+  line-height: 1.2rem;
+  font-size: 12px;
   right: 5px;
   /*  */
   z-index: -1;
@@ -149,7 +150,7 @@ main {
   top: 25%;
   left: 46.5%;
   margin: auto;
-  font-size: 1rem;
+  font-size: 3rem;
 
   color: #f83868;
 
