@@ -53,6 +53,8 @@ main {
 .container-letter {
   position: relative;
   width: min(390px, calc(100vw - 40px));
+  max_height: 80vh;
+  Marrgin: auto;
   aspect-ratio: 2 / 1;
   filter: drop-shadow(0 18px 22px rgba(117, 62, 91, 0.18));
 }
